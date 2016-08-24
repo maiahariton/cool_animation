@@ -1,1 +1,1 @@
-# cool_animation
+# Cool animation
